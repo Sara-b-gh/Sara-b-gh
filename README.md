@@ -44,11 +44,11 @@ $ cat status.txt
 
 ### Frameworks, Databases & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,spring&theme=dark" alt="HTML, CSS,JS, angular, MySQL, Spring and firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,spring&theme=dark" alt="HTML, CSS, Angular, MySQL, Spring and Firebase"/>
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux&theme=dark" alt="Git, GitHub,Unity, IntelliJ IDEA, VS Code and Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux&theme=dark" alt="Git, GitHub, Unity, IntelliJ IDEA, VS Code and Linux"/>
 
 </div>
 
