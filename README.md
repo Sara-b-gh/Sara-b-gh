@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=220&section=header&text=Sarah%20Gherri&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Blue wave banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:3B82F6&height=220&section=header&text=Sarah%20Gherri&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Blue wave banner"/>
 
 ### `Software Development` · `Problem Solving` · `Innovation`
 
@@ -44,11 +44,11 @@ $ cat goals.txt
 
 ### Frameworks, Databases & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,spring,django&theme=dark" alt="HTML, CSS, MySQL, Spring and Django"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,spring&theme=dark" alt="HTML, CSS, MySQL, Spring and Django"/>
 
 ### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code and Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux&theme=dark" alt="Git, GitHub,Unity, IntelliJ IDEA, VS Code and Linux"/>
 
 </div>
 
