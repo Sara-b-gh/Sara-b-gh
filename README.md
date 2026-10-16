@@ -44,7 +44,7 @@ $ cat status.txt
 
 ### Frameworks, Databases & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,angular,js,mysql,spring,firebase&theme=dark" alt="HTML, CSS, Angular, JavaScript, MySQL, Spring et Firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,angular,js,mysql,spring,firebase&theme=dark" alt="HTML, CSS, Angular, MySQL, Spring et Firebase"/>
 
 ### Tools & Environment
 
