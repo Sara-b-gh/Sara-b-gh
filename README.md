@@ -40,11 +40,11 @@ $ cat status.txt
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,python,js&theme=dark" alt="Java, C, Python and JavaScript"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,js&theme=dark" alt="Java, CS, Python and JavaScript"/>
 
 ### Frameworks, Databases & Web
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,spring&theme=dark" alt="HTML, CSS, MySQL, Spring and Django"/>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,spring&theme=dark" alt="HTML, CSS,JS, angular, MySQL, Spring and firebase"/>
 
 ### Tools & Environment
 
